@@ -1,4 +1,4 @@
-package cn.lifesmile.design.singleton;
+package cn.lifesmile.design.create.singleton;
 
 /**
  * @author shenhuan

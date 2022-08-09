@@ -1,4 +1,4 @@
-package cn.lifesmile.design.factory.method;
+package cn.lifesmile.design.create.factory.method;
 
 
 public class HumanFactoryImpl implements IHumanFactory {

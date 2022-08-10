@@ -1,9 +1,6 @@
 package cn.lifesmile.design.behavior.access;
 
-/**
- * @author gaopeng
- * @date 2019/12/19 8:35 下午
- */
+
 public abstract class Employee {
     private int salary;
     private String name;

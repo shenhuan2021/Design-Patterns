@@ -1,9 +1,6 @@
 package cn.lifesmile.design.behavior.access;
 
-/**
- * @author gaopeng
- * @date 2019/12/19 8:41 下午
- */
+
 public class CommonEmployee extends Employee {
     private String job;
 

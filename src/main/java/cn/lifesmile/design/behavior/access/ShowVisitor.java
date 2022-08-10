@@ -1,9 +1,6 @@
 package cn.lifesmile.design.behavior.access;
 
-/**
- * @author gaopeng
- * @date 2019/12/19 8:49 下午
- */
+
 public class ShowVisitor implements IShowVisitor {
     private String info="";
 

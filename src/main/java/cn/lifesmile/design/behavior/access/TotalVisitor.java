@@ -1,9 +1,6 @@
 package cn.lifesmile.design.behavior.access;
 
-/**
- * @author gaopeng
- * @date 2019/12/19 8:56 下午
- */
+
 public class TotalVisitor implements ITotalVisitor {
     private static final int COMMON = 2;
     private static final int MANAGER = 5;

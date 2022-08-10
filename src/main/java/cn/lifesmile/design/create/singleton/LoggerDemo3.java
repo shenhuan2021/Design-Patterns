@@ -17,7 +17,7 @@ public class LoggerDemo3 {
     /**
      * 静态内部类
      */
-    private static class Singleton {
+    static class Singleton {
         private static LoggerDemo3 instance = new LoggerDemo3();
     }
 
